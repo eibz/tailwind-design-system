@@ -25,9 +25,6 @@ module.exports = {
             wheat: '#FFF5EB',
             morning: '#E8F4FF',
         },
-        fontSize: {
-            xs: ['14px', { lineHeight: '24px', letterSpacing: '-0.03em' }],
-        },
     },
     plugins: [],
 };
